@@ -64,6 +64,23 @@ My goal is to create reliable, user-friendly applications while growing as a ful
 ## 🤝 Let's Connect
 
 - 💻 GitHub: [@farkhat12](https://github.com/farkhat12)
+- ## 📬 Contact Me
+
+<p align="center">
+  <a href="https://t.me/the_farkhat">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://instagram.com/the.farkhat">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://wa.me/+998936142724">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
+
+<p align="center">
+  📱 Open to collaboration and interesting projects.
+</p>
 
 ---
 
