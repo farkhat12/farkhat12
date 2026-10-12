@@ -68,13 +68,13 @@ My goal is to create reliable, user-friendly applications while growing as a ful
 
 <p align="center">
   <a class="decoration-none" href="https://t.me/the_farkhat">
-    <img width="150px" min-width="130px" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img width="150px" min-height="40px" min-width="130px" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a class="decoration-none" href="https://instagram.com/the.farkhat">
-    <img width="150px" min-width="130px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img width="150px" min-width="130px" min-height="40px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a class="decoration-none" href="https://wa.me/+998936142724">
-    <img width="150px" min-width="130px"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img width="150px" min-width="130px" min-height="40px"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
